@@ -51,6 +51,46 @@
 		top: 169%;
 		left: 47.5%;
 	}
+
+	.karma1 {
+		top: 169%;
+		left: 38.5%;
+	}
+
+	.karma2 {
+		top: 169%;
+		left: 57.5%;
+	}
+
+	.realm1 {
+		top: 113%;
+		left: 48%;
+	}
+
+	.realm2 {
+		top: 140%;
+		left: 68.5%;
+	}
+
+	.realm3 {
+		top: 140%;
+		left: 24%;
+	}
+
+	.realm5 {
+		top: 180%;
+		left: 24%;
+	}
+
+	.realm4 {
+		top: 180%;
+		left: 68.5%;
+	}
+
+	.realm6 {
+		top: 205%;
+		left: 53.5%;
+	}
 	  
 	  .tooltip1 .tooltiptext {
 		visibility: hidden;
@@ -71,7 +111,7 @@
 		opacity: 0;
 		transition: opacity 0.3s;
 		font-size: 12px;
-		font-size: 1vw;
+		
 	  }
 	  
 	  .tooltip1 .tooltiptext::after {
@@ -90,6 +130,39 @@
 	  .tooltip1:hover .tooltiptext {
 		visibility: visible;
 		opacity: 1;
-		font-size: 16px;
-		font-size: 2vw;
+		font-size: 12px;
+		font-size: 1.5vw;
+	  }
+
+	  .sections {
+		position: absolute;
+		font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+		font-size: 160%;
+		display: inline-block;
+		border: 1px solid white;
+		border-radius: 6px;
+		padding: 2px;
+		background-color: rgba(255, 218, 96, 0.664);
+		color: black;
+		z-index: 9;
+	  }
+
+	  .realms {
+		top: 104.5%;
+		left: 47%;
+	  }
+
+	  .karmas {
+		top: 146.5%;
+		left: 47%;
+	  }
+
+	  .nidanas {
+		top: 86.5%;
+		left: 45%;
+	  }
+
+	  .cites {
+		  margin-left: 10px;
+		  margin-top: 10px;
 	  }
