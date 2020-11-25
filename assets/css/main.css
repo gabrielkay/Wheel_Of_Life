@@ -35,6 +35,13 @@
 		text-align: center;
 	}
 
+	.history {
+		margin: 20px;
+		font-size: 22px;
+		font-weight: 350;
+		font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	}
+
 	.tooltip1 {
 		position: absolute;
 		font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -90,6 +97,76 @@
 	.realm6 {
 		top: 205%;
 		left: 53.5%;
+	}
+
+	.l1 {
+		top: 93%;
+		left: 52.5%;
+	}
+
+	.l2 {
+		top: 105%;
+		left: 69.5%;
+	}
+
+	.l3 {
+		top: 135%;
+		left: 80.5%;
+	}
+
+	.l4 {
+		top: 180%;
+		left: 83%;
+	}
+
+	.l5 {
+		top: 233%;
+		left: 71%;
+	}
+
+	.l6 {
+		top: 240%;
+		left: 55%;
+	}
+
+	.l7 {
+		top: 244%;
+		left: 45%;
+	}
+
+	.l8 {
+		top: 225%;
+		left: 26%;
+	}
+
+	.l9 {
+		top: 191%;
+		left: 16%;
+	}
+
+	.l10 {
+		top: 159%;
+		left: 12%;
+	}
+
+	.l11 {
+		top: 105%;
+		left: 26%;
+	}
+
+	.l12 {
+		top: 98%;
+		left: 35%;
+	}
+
+	.yama {
+		top: 77%;
+		left: 52%;
+	}
+
+	.buddha {
+		top: 34.5%;
+		left: 82.5%;
 	}
 	  
 	  .tooltip1 .tooltiptext {
